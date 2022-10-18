@@ -159,7 +159,7 @@ function App() {
         }
       </div>
       <div >
-        <h1>© {new Date().getFullYear()} <a className="underline" href="https://www.linkedin.com/in/ricky-la-9aa77715a/">Ricky La</a>: Thanks for visiting :)</h1>
+        <h1>© {new Date().getFullYear()} <a className="underline" href="https://github.com/Laxunie/nutritonfacts">Ricky La</a>: Thanks for visiting :)</h1>
       </div>
     </div>
   );
